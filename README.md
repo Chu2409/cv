@@ -9,7 +9,7 @@ Este portafolio es una presentación de alguna de las tecnologías que puedo man
 
 ## Tecnologías Utilizadas
 
-- *HTML:* Este avance está realizado puramente con HTML, de tal manera que sigue una semántica
+- *HTML:* Este avance está realizado puramente con HTML, de tal manera que sigue una correcta semántica.
   
 ## Instalación y Uso
 
